@@ -1,0 +1,18 @@
+DM Object: Parallel Mesh 2 MPI processes
+  type: plex
+Parallel Mesh in 2 dimensions:
+  0-cells: 53 53
+  1-cells: 124 124
+  2-cells: 72 72
+Labels:
+  depth: 3 strata with value/size (0 (53), 1 (124), 2 (72))
+  celltype: 3 strata with value/size (0 (53), 1 (124), 3 (72))
+  Face Sets: 4 strata with value/size (1 (17), 2 (3), 3 (17), 4 (3))
+  exterior_facets: 1 strata with value/size (1 (37))
+  interior_facets: 1 strata with value/size (1 (158))
+  pyop2_core: 1 strata with value/size (1 (154))
+  pyop2_owned: 1 strata with value/size (1 (46))
+  pyop2_ghost: 1 strata with value/size (1 (49))
+  Linear s_ solve converged due to CONVERGED_RTOL iterations 3
+done on 9 x 9 grid with P_1 elements:
+  error |u-uexact|_inf = 2.533e-04, |u-uexact|_h = 1.346e-04
