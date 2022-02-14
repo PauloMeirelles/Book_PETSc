@@ -1,0 +1,3 @@
+Nonlinear solve converged due to CONVERGED_FNORM_RELATIVE iterations 5
+grid of 9 x 9 = 81 interior nodes
+numerical error:  |u-u_exact|_inf = 6.029e-03

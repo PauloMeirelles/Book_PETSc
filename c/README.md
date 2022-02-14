@@ -1,0 +1,37 @@
+p4pdes/c/
+=========
+
+This directory contains the C programs which support the book _PETSc for PDEs_.
+
+  * I will maintain and support these examples in the long term and update
+    and tag them with PETSc versions.
+
+### install PETSc
+
+Please follow the instructions at [petsc.org/release/install/](https://petsc.org/release/install/).
+
+Notes:
+
+  * My book does not contain PETSc installation instructions, though it has
+    minimal advice.  Maintaining installation information is the job of
+    PETSc developers, not me.  (Thank goodness.)
+  * [CONFIGS.md](CONFIGS.md) contains some of the `configure` commands which
+    work on the author's machines.  These are minimal installation suggestions.
+  * My book does not help the reader with debugging C programs.
+
+### compile and run one example
+
+Do this to build and run the program `e.c` in Chapter 1:
+
+    $ cd ch1
+    $ make e
+    $ ./e
+    $ mpiexec -n 20 ./e
+
+### software (regression) testing
+
+    $ make test               # in either c/ or c/ch*/
+
+### cleaning up
+
+    $ make distclean          # in either c/ or c/ch*/

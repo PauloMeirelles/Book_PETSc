@@ -1,0 +1,8 @@
+/obstacle
+/dnlo
+*.dat
+*.dat.info
+*.pdf
+/PetscBinaryIO.py
+/petsc_conf.py
+

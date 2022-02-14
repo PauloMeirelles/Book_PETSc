@@ -1,0 +1,8 @@
+solving problem straight with stump initial state on 10 x 10 grid,
+    cells dx=0.2 x dy=0.2, limiter = none, and jac_limiter = none ...
+0 TS dt 0.05 time 0.
+1 TS dt 0.0304896 time 0.0295903
+2 TS dt 0.01996 time 0.0600799
+3 TS dt 0.01996 time 0.08004
+4 TS dt 0.0462395 time 0.1
+completed 4 steps to time 0.1

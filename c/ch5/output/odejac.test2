@@ -1,0 +1,9 @@
+0 TS dt 0.1 time 0.
+1 TS dt 0.170141 time 0.1
+2 TS dt 0.169917 time 0.270141
+3 TS dt 0.171145 time 0.440058
+4 TS dt 0.173931 time 0.611203
+5 TS dt 0.107433 time 0.785134
+6 TS dt 0.107433 time 0.892567
+7 TS dt 0.187924 time 1.
+error at tf = 1.000 with 7 steps:  |y-y_exact|_inf = 0.000121101

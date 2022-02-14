@@ -1,0 +1,14 @@
+running on 16 x 16 grid with square cells of side h = 0.156250 ...
+0 TS dt 5. time 0.
+1 TS dt 10.0587 time 5.
+2 TS dt 9.52508 time 15.0587
+3 TS dt 11.0962 time 24.5838
+4 TS dt 12.5472 time 35.68
+5 TS dt 15.0847 time 48.2272
+6 TS dt 19.2147 time 63.3119
+7 TS dt 27.8378 time 82.5266
+8 TS dt 36.8439 time 110.364
+9 TS dt 26.3958 time 147.208
+10 TS dt 16.1864 time 167.627
+11 TS dt 16.1864 time 183.814
+12 TS dt 35.668 time 200.

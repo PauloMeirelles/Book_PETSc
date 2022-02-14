@@ -1,0 +1,7 @@
+/sparsemat
+/vecmatksp
+/tri
+/loadsolve
+*.dat
+*.dat.info
+
